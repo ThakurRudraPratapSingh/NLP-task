@@ -1,0 +1,101 @@
+English,Hindi,Word Count (English),Word Count (Hindi),Difference,Model_Translation
+Interface implemented by the plugin,प्लगिन के द्वारा लागू अंतरफलक,5,5,0,प्लगिन के द्वारा लागू अंतरफलक
+Please report this bug to the developers.,डेवलेपर को इस बग को रिपोर्ट करें. ,7,7,0,डेवलेपर को इस बग को रिपोर्ट करें.
+Move ~ a onto the foundation.,आधार पर एक पत्ता ले जाएँ,6,6,0,~a को एक आधार पर ले जाएँ.
+Allows viewing of various interface properties,अंतराफलक के विभिन्न गुणों को देखने देता है,6,8,-2,अंतराफलक के विभिन्न गुणों को देखने देता है
+Place the four of spades next to the three of spades.,हुकुम की दुक्का के बगल में हुकुम के तिक्की को रखें. ,11,11,0,हुकुम की दुक्का के बगल में हुकुम के तिक्की को रखें.
+A list of plugins that are disabled by default.,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,9,12,-3,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+"focusable% s has a table interface, but not a selection interface","फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state",11,19,-8,"फोकस योग्य %s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state"
+Move waste on to a reserve slot,सुरक्षित खाँचा पर बेकार को ले जाएँ,7,7,0,सुरक्षित खाँचा पर बेकार को ले जाएँ
+Place the queen of hearts next to the jack of hearts.,लाल पान की बेगम के बगल में लाल पान के गुलाम को रखें. ,11,13,-2,लाल पान की बेगम के बगल में लाल पान के गुलाम को रखें.
+Select whether to drag the cards or to click on the source then the destination.,चुनें कि कार्ड खींचना है या गंतव्य के बजाय श्रोत पर क्लिक करना है. ,15,14,1,चुनें कि कार्ड खींचना है या गंतव्य के बजाय श्रोत पर क्लिक करना है.
+Are you sure you want to delete the '% s' tool?,कया आप सचमुच लागाउट करना चाहेंगे? ,11,6,5,को मिटाएं से.?
+"A list of strings that come in the form of a quintuple: name, wins, total games played, best time (in seconds) and worst time (also in seconds). Unplayed games do not need to be represented.","स्ट्रिंग की सूची जो पांच गुने रूप में आता हैः name, wins, total games played, best time (सेकेंड में) और worst time (सेकेंड में ही). नहीं खेला गया खेल दिखाया नहीं जा सकता. ",35,33,2,"स्ट्रिंग की सूची जो पांच गुने रूप में आता है: name, wins, total games played, best time (सेकेंड में) और worst time (सेकेंड में ही). नहीं खेला गया खेल दिखाया नहीं जा सकता."
+Place the three of diamonds next to the two of diamonds.,ईंट का तिक्की के बगल में ईंट का दुक्का को रखें. ,11,11,0,ईंट का तिक्की के बगल में ईंट का दुक्का को रखें.
+Move ~ a onto the nine of spades.,~ a को हुकुम का नहला पर घुमाएँ. ,8,8,0,~a को एक हुकुम का नहला पर ले जाएँ
+Move ~ a onto an empty foundation slot.,~ a को खाली फाउन्डेशन स्लाट में ले जाएँ,8,9,-1,~a को एक खाली आधार में ले जाएँ.
+make (\\ [\\d +\\])?: \\s + Leaving\\s + directory\\s + `(. +) ',make (\\ [\\d + \\])?: \\s + Leaving\\s + directory\\s + `(. +) ',13,14,-1,बनाएँ (\\ [\\+\\]])?
+Add C + + support:,C + + समर्थन जोड़ेंः,5,5,0,C + + समर्थन जोड़ें:
+Move ~ a onto an empty bottom slot.,~ a को एक खाली नीचे स्लॉट में ले जाएँ. ,8,10,-2,~a को एक खाली नीचे स्लॉट में ले जाएँ.
+Could not show help for “% s”,“% s” के लिए मदद नहीं दिखा सका,7,8,-1,“%s” के लिए मदद नहीं दिखा सका
+Autocompletion (C / C + + / Java only),स्वतःपूर्ण (C/C + +/Java केवल) ,9,5,4,स्वतः समापन (C / C + + / केवल)
+Remove the four of hearts.,लाल पान का दहला हटाएँ. ,5,5,0,लाल पान का दहला हटाएँ.
+Commit your changes to the Subversion tree,सत्र के परिवर्तन स्वयं में संग्रहित करें,7,7,0,कमिट को सबवर्सन ट्री
+Consider moving something into an empty slot,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,7,11,-4,खाली खाँचा में कुछ ले जाने के बारे में विचार करें
+Place the five of hearts next to the four of hearts.,लाल पान की पंजा के बगल में लाल पान के चव्वा को रखें. ,11,13,-2,लाल पान की पंजा के बगल में लाल पान के चव्वा को रखें.
+Place the three of spades next to the two of spades.,हुकुम की तिक्की के बगल में हुकुम के दुक्का को रखें. ,11,11,0,हुकुम की तिक्की के बगल में हुकुम के दुक्का को रखें.
+Move ~ a onto the five of diamonds.,~ a को एक ईंट का पंजा पर ले जाएँ,8,10,-2,~a को एक ईंट का पंजा पर ले जाएँ
+Place the king of spades next to the queen of spades.,हुकुम की बेगम के बगल में हुकुम के वादशाह को रखें,11,11,0,हुकुम की बेगम के बगल में हुकुम के वादशाह को रखें
+Cannot open:% s & s,प्लेयर का निर्माण नहीं हो सकता,5,6,-1,% 1 को खोल नहीं सकता: s (S)
+make (\\ [\\d +\\])?: \\s + Leaving\\s + directory\\s + '(. +)',make (\\ [\\d + \\])?: \\s + Leaving\\s + directory\\s + '(. +)' ,12,13,-1,बनाएँ (\\ [\\+\\]])?
+Odessa is a better game. Really.,ओडेसा एक बढ़िया खेल है. सच में. ,6,7,-1,ओडेसा एक बढ़िया खेल है. सच में.
+I could sure use a backrub right about now...,लगता है मुझे तुरंत अपनी पीठ खुजानी पड़ेगी... ,9,8,1,लगता है मुझे तुरंत अपनी पीठ खुजानी पड़ेगी...
+Move a card to the Foundation,आधार पर एक पत्ता ले जाएँ,6,6,0,आधार पर एक पत्ता ले जाएँ
+Consider moving something into an empty slot,खाली खाँचा में कुछ ले जाने के बारे में विचार करें,7,11,-4,खाली खाँचा में कुछ ले जाने के बारे में विचार करें
+Select a card from the reserve for first foundation pile,प्रथम आधार ढेर हेतु अतिरिक्त में से एक ताश का पत्ता चुनें,10,12,-2,प्रथम आधार ढेर हेतु अतिरिक्त में से एक ताश का पत्ता चुनें
+% (rolename) s parent index% (num1) d does not match row and column index% (num2) d,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,16,17,-1,% 1 अभिभावक सूची% 1 (%num1) पंक्ति तथा स्तम्भ सूची% 4) से मेल नहीं खाते (num2)
+"If you do not save, all your changes will be lost.",क्या आप निश्चित हैं कि आप% s को स्थायी तौर पर डिलीट करना चाहते हैं,11,15,-4,नहीं सहेजें सभी.
+Move ~ a onto the king of clubs.,~ a को चिड़ी का बादशाह पर घुमाएँ. ,8,8,0,~a को चिड़ी का बादशाह पर ले जाएँ
+Place the seven of hearts next to the six of hearts.,लाल पान की सत्ता के बगल में लाल पान के छक्का को रखें. ,11,13,-2,लाल पान की सत्ता के बगल में लाल पान के छक्का को रखें.
+"The match ""% s"" was not found. Wrap search around the document?","पाठ्य ""% s"" नहीं मिला था",12,6,6,"पाठ्य ""%s"" नहीं मिला था"
+Match the top two cards of the waste.,बेकार के ऊपर के दो कार्ड का प्रयोग करें,8,9,-1,बेकार के ऊपर के दो कार्ड का प्रयोग करें
+Save the current file with a different name,वर्तमान फ़ाइल एक भिन्न नाम से सहेजें,8,7,1,वर्तमान फ़ाइल एक भिन्न नाम से सहेजें
+Move ~ a onto the seven of clubs.,~ a को चिड़ी का सत्ता पर ले जाएँ,8,9,-1,~a को चिड़ी का सत्ता पर ले जाएँ
+Error saving to suppression file `% s':% s,'% s' फाइल में लिखने की त्रुटिः% s,8,8,0,'%s' फाइल में लिखने की त्रुटि: %s
+Place the jack of hearts next to the ten of hearts.,लाल पान की गुलाम के बगल में लाल पान के दहला को रखें. ,11,13,-2,लाल पान की गुलाम के बगल में लाल पान के दहला को रखें.
+Cannot start the game “% s”,“% s” खेल आरंभ नहीं कर सका,6,7,-1,“%s” खेल आरंभ नहीं कर सका
+An interactive Python accessibility explorer,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,5,5,0,एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक
+Move a card to an empty temporary slot,खाली अस्थायी खाँचा पर पत्ता ले जाएँ,8,7,1,खाली अस्थायी खाँचा पर पत्ता ले जाएँ
+Try moving card piles around,पत्तों के ढेर को आसपास ले जाने की कोशिश करें,5,10,-5,पत्तों के ढेर को आसपास ले जाने की कोशिश करें
+"File ""% s"" already exists. Do you want to overwrite it?",यह फाइल मौजूद नहीं है। क्या आप इस फाइल का निर्माण करना चाहते हैं? ,11,14,-3,फ़ाइल से. उपस्थित है को?
+Remove the king of hearts.,लाल पान का बादशाह हटाएँ. ,5,5,0,लाल पान का बादशाह हटाएँ.
+% (rolename) s parent index% (num1) d does not match row and column index% (num2) d,% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,16,17,-1,% 1 अभिभावक सूची% 1 (%num1) पंक्ति तथा स्तम्भ सूची% 4) से मेल नहीं खाते (num2)
+You are searching for a five.,एक पंजा को आप ढूंढ रहे हैं. ,6,7,-1,एक पंजा को आप ढूंढ रहे हैं.
+Move ~ a onto the queen of diamonds.,~ a को एक ईंट की बेगम पर ले जाएँ,8,10,-2,~a को एक ईंट की बेगम पर ले जाएँ
+Install new card themes from the distribution packages repositories,वितरण पैकेज रिपोसिटरीज़ से नए कार्ड गेम प्रसंग संस्थापित करें,9,10,-1,वितरण पैकेज रिपोसिटरीज़ से नए कार्ड गेम प्रसंग संस्थापित करें
+Place the five of clubs next to the four of clubs.,चिड़ी की चौवा के बगल में चिड़ी के पंजा को रखें. ,11,11,0,चिड़ी की चौवा के बगल में चिड़ी के पंजा को रखें.
+Place the five of spades next to the four of spades.,हुकुम की पंजा के बगल में हुकुम के चव्वा को रखें. ,11,11,0,हुकुम की पंजा के बगल में हुकुम के चव्वा को रखें.
+Copy the selected text to the clipboard,चयनित पाठ को क्लिपबोर्ड पर कॉपी करें,7,7,0,चयनित पाठ को क्लिपबोर्ड पर कॉपी करें
+The border color of the highlight box,हाइलाइट बक्से का सीमांत रंग,7,5,2,हाइलाइट बक्से का सीमांत रंग
+Please fill in empty pile first.,कृपया खाली ढेर को पहले भरें. ,6,6,0,कृपया खाली ढेर को पहले भरें.
+"This usually occurs when you run an older version of Aisleriot which does not have the game you last played. The default game, Klondike, is being started instead.","यह प्रायः होता है जब आप एसलिरियोट के पुराने संस्करण को चलाते हैं जिसने खेल नहीं खेला है जो आप अंतिम में खेले हैं. मूलभूत खेल, Klondike, बदले में आरंभ हो रहा है. ",28,33,-5,"यह प्रायः होता है जब आप एसलिरियोट के पुराने संस्करण को चलाते हैं जिसने खेल नहीं खेला है जो आप अंतिम में खेले हैं. मूलभूत खेल, Klondike, बदले में आरंभ हो रहा है."
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?,एक्सेरसाइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं? ,25,29,-4,एक्सेर्साइसर आपके डेस्कटोप में मौजूद अनुप्रयोग नहीं देख पाया। इस समस्या के समाधान के लिए आपको डेस्कटोप पहुंचनीयता को सक्रिय करना होगा। क्या आप इसे सक्रिय करना चाहते हैं?
+Move ~ a onto the jack of clubs.,~ a को चिड़ी का गुलाम पर ले जाएँ,8,9,-1,~a को चिड़ी का गुलाम पर ले जाएँ
+Move ~ a onto the six of clubs.,~ a को चिड़ी का छक्का पर घुमाएँ. ,8,8,0,~a को चिड़ी का छक्का पर ले जाएँ
+Add C + + support:,C + + समर्थन जोड़ेंः,5,5,0,C + + समर्थन जोड़ें:
+Place the king of hearts next to the queen of hearts.,लाल पान की बेगम के बगल में लाल पान के वादशाह को रखें. ,11,13,-2,लाल पान की बेगम के बगल में लाल पान के वादशाह को रखें.
+Revert all menus to original settings?,सारे मेनू मूल जमावट में वापस करें? ,6,7,-1,सारे मेनू मूल जमावट में वापस करें?
+Are you sure you want to delete all the breakpoints?,क्या आप निश्चित है कि आप ट्रेश की सभी आयटम्स हमेशा के लिए डिलीट करना चाहते हैं,10,17,-7,को मिटाएं सभी?
+Place the king of hearts next to the queen of hearts.,लाल पान की बेगम के बगल में लाल पान के वादशाह को रखें. ,11,13,-2,लाल पान की बेगम के बगल में लाल पान के वादशाह को रखें.
+Move ~ a onto the six of spades.,~ a को एक हुकुम का छक्का पर ले जाएँ,8,10,-2,~a को एक हुकुम का छक्का पर ले जाएँ
+You are searching for a three.,एक तिक्की को आप ढूंढ रहे हैं. ,6,7,-1,एक तिक्की को आप ढूंढ रहे हैं.
+Move ~ a onto the nine of hearts.,~ a को एक लाल पान का नहला पर ले जाएँ,8,11,-3,~a को एक लाल पान का नहला पर ले जाएँ
+% s does not belong to a set,% s किसी समुच्चय का सदस्य नहीं है,8,8,0,%s किसी समुच्चय का सदस्य नहीं है
+The duration of the highlight box when selecting accessible nodes.,पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,10,10,0,पहुंचनीय आसंधि नोड को चुनते समय हाइलाइट बक्से की अवधि.
+View help for this game,इस खेल के लिये सहायता दिखायें,5,6,-1,इस खेल के लिये सहायता दिखायें
+"% s is free software; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version% d of the License, or (at your option) any later version.",% s मुफ़्त सॉफ़्टवेयर है; इसे आप मुफ़्त सॉफ़्टवेयर फाउण्डेशन द्वारा प्रकाशित ग्नू जनरल पब्लिक लाइसेंस के तहत वितरित कर सकते हैं या परिवर्धित कर सकते हैं; लाइसेंस के% d संस्करण या इसके (अपने विकल्प अनुसार) बाद के संस्करण के तहत. ,43,41,2,%s मुफ़्त सॉफ़्टवेयर है; इसे आप मुफ़्त सॉफ़्टवेयर फाउण्डेशन द्वारा प्रकाशित ग्नू जनरल पब्लिक लाइसेंस के तहत वितरित कर सकते हैं या परिवर्धित कर सकते हैं; लाइसेंस के %d संस्करण या इसके (अपने विकल्प अनुसार) बाद के संस्करण के तहत.
+Move ~ a onto an empty tableau slot.,~ a को एक खाली तस्वीर खाँचा पर ले जाएँ. ,8,10,-2,~a को एक खाली तस्वीर खाँचा पर ले जाएँ.
+Add to the sequence in row ~ a.,पंक्ति ~ a में श्रृंखला में जोड़ें. ,8,7,1,पंक्ति ~a में श्रृंखला में जोड़ें.
+Place the six of spades next to the five of spades.,हुकुम की पंजा के बगल में हुकुम के चव्वा को रखें. ,11,11,0,हुकुम की पंजा के बगल में हुकुम के चव्वा को रखें.
+Plugin with various methods of selecting accessibles quickly.,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,8,12,-4,प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां
+The color and opacity of the highlight border.,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,8,8,0,हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता।
+Move ~ a onto the black joker.,~ a को काला जोकर पर ले जाएँ. ,7,8,-1,~a को काला जोकर पर ले जाएँ.
+Monitors won 't give you Vitamin D - - but sunlight will...,"सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं... ",12,11,1,"सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं..."
+Move ~ a onto the eight of spades.,~ a को एक हुकुम का अट्ठा पर ले जाएँ,8,10,-2,~a को एक हुकुम का अट्ठा पर ले जाएँ
+/ View / Sorting / Sort Descending,/ View/Todo List/Hide Completed Items,7,5,2,/ दृश्य / क्रमबद्ध करने में त्रुटि
+% (rolename) s index% (num) d does not match row and column,% (rolename) s सूची% (num) d पंक्ति और स्तंभ से मेल नहीं खातेparent indexrow and column index,12,17,-5,%s (%olename) साइन इंडेक्स% 1 (num) d पंक्ति तथा स्तंभ से मेल नहीं खाता
+Move ~ a onto the seven of spades.,~ a को एक हुकुम का सत्ता पर ले जाएँ,8,10,-2,~a को एक हुकुम का सत्ता पर ले जाएँ
+C + + and Java support Plugin,C + + और जावा सपोर्ट प्लगिन,7,7,0,सी + + और जावा समर्थन प्लगइन
+A generic GTKmm (C + +) project,जेनेरिक C + + प्रोजेक्ट,7,5,2,जेनेरिक C++ प्रोजेक्ट
+Move ~ a onto the jack of hearts.,~ a को एक लाल पान का गुलाम पर ले जाएँ,8,11,-3,~a को एक लाल पान का गुलाम पर ले जाएँ
+Move something onto an empty tableau slot.,किसी वस्तु को खाली तस्वीर खाँचे में ले जाएँ,7,9,-2,किसी वस्तु को खाली तस्वीर खाँचे में ले जाएँ
+The name of the scheme file containing the solitaire game to play.,प्रसंग फ़ाइल का नाम जिसमें खेला जाने वाला सॉलिटेयर खेल है. ,12,11,1,प्रसंग फ़ाइल का नाम जिसमें खेला जाने वाला सॉलिटेयर खेल है.
+"This usually occurs when you run an older version of Aisleriot which does not have the game you last played. The default game, Klondike, is being started instead.","यह प्रायः होता है जब आप एसलिरियोट के पुराने संस्करण को चलाते हैं जिसने खेल नहीं खेला है जो आप अंतिम में खेले हैं. मूलभूत खेल, Klondike, बदले में आरंभ हो रहा है. ",28,33,-5,"यह प्रायः होता है जब आप एसलिरियोट के पुराने संस्करण को चलाते हैं जिसने खेल नहीं खेला है जो आप अंतिम में खेले हैं. मूलभूत खेल, Klondike, बदले में आरंभ हो रहा है."
+A list of plugins that are disabled by default.,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,9,12,-3,उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है
+Default Text below icons Text beside icons Icons only Text only,Default Text below icons Text beside icons Icons only Text only,11,11,0,आइकन के बाजू पाठ
+Skip the current conflicted commit and continue,वर्तमान फ़ाइल एक भिन्न नाम से सहेजें,7,7,0,वर्तमान फ़ाइल एक भिन्न नाम से सहेजें
+You are searching for a ten.,एक दहला को आप ढूंढ रहे हैं. ,6,7,-1,एक दहला को आप ढूंढ रहे हैं.
+Move a card from the reserve onto the empty tableau slot,अतिरिक्त में से एक ताश के पत्ते को खाली तस्वीर खाँचा पर ले जाएँ,11,14,-3,अतिरिक्त में से एक ताश के पत्ते को खाली तस्वीर खाँचा पर ले जाएँ
+Failed to create pipe to '% s':% s,प्रोजेक्ट लोड करने में असमर्थ,8,5,3,'%s' में पाइप बनाने में विफल: %s
+% s has% s state without% s state,"% s में% s स्थिति है, पर उसके साथ% s स्थिति नहीं है",8,13,-5,% s में% s% s स्थिति के बगैर
+"accerciser Copyright (c) 2006, 2007 IBM Corporation (BSD)","एक्सेर्साइसर सर्वाधिकार (c) 2006,2007 आईबीएम निगम (बीएसडी) ",8,7,1,"एक्सेर्साइसर सर्वाधिकार (c) 2006, 2007 आईबीएम निगम (बीएसडी)"
